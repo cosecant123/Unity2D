@@ -1,0 +1,1 @@
+A 2D shooting game. Followed by the tutorial on the: https://pixelnest.io/tutorials/2d-game-unity/install-and-scene/
